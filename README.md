@@ -1,4 +1,4 @@
-Worthy - Free Bootstrap Template
+MEN TRAVEL
 =======================================================================
 
 Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
@@ -11,7 +11,7 @@ If you like the template and find it useful, please help us spread the word :-)
 - Release Date: 13 Nov 2014
 - Author: HtmlCoder (http://htmlcoder.me)
 - Contact: http://htmlcoder.me/contact
-
+<!-- 
 Live Preview
 =======================================================================
 http://www.htmlcoder.me/preview/worthy/v.1.0
@@ -41,4 +41,4 @@ Resources
 - Modernizr - http://modernizr.com/
 - Animate CSS by Daniel T. Eden - http://daneden.github.io/animate.css/
 - Isotope Jquery plugin by metafizzy.co - http://isotope.metafizzy.co/
-- Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/
+- Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/ -->
